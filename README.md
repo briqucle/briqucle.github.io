@@ -8,7 +8,7 @@ Les identifiants et mot de passe se trouve dans le mail.
 ## Pour commencer
 
 ```bash
-git clone ...
+git clone https://github.com/briqucle/briqucle.github.io.git
 npm install
 npm run dev
 ```
